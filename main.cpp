@@ -7,4 +7,5 @@ int main()
  cin >>a >>b;
  cout << "Sum A and B is: " <<(a+b);
 
+
 }
