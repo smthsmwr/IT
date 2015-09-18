@@ -9,6 +9,5 @@ int main()
     cout << "Sum A and B is: " <<(a+b) <<"\n";
     cout << "Dif A and B is: " <<(a-b) <<"\n";
     cout << "Multiple A and B is: " <<(a*b) <<"\n";
-
-
+    cout << "Div A and B is: " <<(a/b) <<"\n";
 }
